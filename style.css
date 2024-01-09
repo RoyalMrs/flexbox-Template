@@ -45,7 +45,7 @@ background: gold;
     .aside1{
      order: 1;   
     }
-    ,.aside2{
+    .aside2{
         order: 2;
     }
     .main{
